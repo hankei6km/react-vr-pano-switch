@@ -6,7 +6,7 @@ Simple 360° panorama picture viewer.
 
 - [Demo Page](https://hankei6km.github.io/react-vr-pano-switch/demo/)
 
-- [Docker Container Image](Add link to docker hub version here)
+- [Docker Image](https://hub.docker.com/r/hankei6km/react-vr-pano-switch/)
 
 ## Credits
 
