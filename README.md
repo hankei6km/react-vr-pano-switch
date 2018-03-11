@@ -2,7 +2,7 @@
 
 Simple 360° panorama picture viewer.
 
-![react-vr-pano-switch](https://raw.githubusercontent.com/hankei6km/react-vr-pano-switch/PR-0.1.0/imgs/react-vr-pano-switch.gif)
+![react-vr-pano-switch](https://raw.githubusercontent.com/hankei6km/react-vr-pano-switch/master/imgs/react-vr-pano-switch.gif)
 
 - [Demo Page](https://hankei6km.github.io/react-vr-pano-switch/demo/)
 
